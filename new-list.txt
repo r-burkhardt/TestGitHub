@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 rburkhardt rburkhardt 4096 Mar 25 13:20 .
+drwxrwxr-x 7 rburkhardt rburkhardt 4096 Mar 25 13:13 ..
+drwxrwxr-x 8 rburkhardt rburkhardt 4096 Mar 25 13:19 .git
+-rw-rw-r-- 1 rburkhardt rburkhardt  240 Mar 25 13:15 list.txt
+-rw-rw-r-- 1 rburkhardt rburkhardt    0 Mar 25 13:20 new-list.txt
